@@ -1,4 +1,4 @@
-# Rule34.US-image-video-downwloader
+# Rule34.US-image-video-downloader
 Does what the title says downloads every image and video/GIF on the pages you assign.
 I would greatly suggest checking out the help me because it has all the information in it you need to know for downloading these images/videos.
 So this program was fully made in python its also my first every program that i made feel free to check the code sorry about the messy code.
